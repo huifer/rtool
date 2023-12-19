@@ -13,6 +13,7 @@ pub struct IdCardInfo {
 
 pub struct IdCardUtil {}
 
+#[allow(dead_code)]
 impl IdCardUtil {
     /// 从身份证号码中提取信息并返回一个包含生日、年龄和性别的结构体
     ///

@@ -1,6 +1,8 @@
 pub struct Desensitized {}
 
+#[allow(dead_code)]
 impl Desensitized {
+
     /// 对输入字符串进行脱敏处理。
     ///
     /// # 参数
