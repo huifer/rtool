@@ -9,7 +9,7 @@ documentation="https://huifer.github.io/rtool/"
 repository = "https://github.com/huifer/rtool"
 homepage="https://huifer.github.io/rtool/"
 keywords = ["rust", "utils"]
-
+authors="Zen Huifer <huifer97@163.com>"
 [dependencies]
 chrono = "0.4.31"
 encoding_rs = "0.8.33"
